@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Miller Chen
+- 👋 Hi, I’m Chih-Kuan, Miller, Chen
 
 <!---
 r93b42016/r93b42016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
